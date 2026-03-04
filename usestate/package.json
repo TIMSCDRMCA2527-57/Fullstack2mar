@@ -1,5 +1,5 @@
 {
-  "name": "statemanagement",
+  "name": "usestate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
